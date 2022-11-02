@@ -1,6 +1,11 @@
-### Hi there 👋
+### MEGANEnoKAMISAMA  
+![Minecraft Skin](https://mc-heads.net/body/38a7f17acf3b413e937f590470bf706e/128.png)
+![Hypixel Level](https://gen.plancke.io/exp/MEGANEnoKAMISAMA.png)
+![Hypixel Achievement](https://gen.plancke.io/achievementPoints/MEGANEnoKAMISAMA.png)
 
 <!--
+### Hi there 👋
+
 **GODofMEGANE/GODofMEGANE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
